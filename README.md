@@ -12,11 +12,11 @@ To install zenlayer-pinger, follow these steps:
     ```
 2. Install requirements
     ```bash
-    python3 -m pip install requirements.txt
+    python3 -m pip install -r requirements.txt
     ```
 3. Run the project!
     ```bash
-    python3 ping.py --host eepy.today --county TR, US
+    python3 ping.py --host eepy.today --country TR, US
     ```
 
 ## Usage
